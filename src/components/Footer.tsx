@@ -13,7 +13,7 @@ const Footer = () => {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/tanmayjadhav"
+              href="https://github.com/Tanmayjadhav2305"
               target="_blank"
               rel="noopener noreferrer"
               className="w-9 h-9 rounded-lg bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-colors"
@@ -22,7 +22,7 @@ const Footer = () => {
               <Github className="w-4 h-4" />
             </a>
             <a
-              href="https://linkedin.com/in/tanmay-jadhav-795a96293"
+              href="https://www.linkedin.com/in/tanmay-jadhav-795a96293"
               target="_blank"
               rel="noopener noreferrer"
               className="w-9 h-9 rounded-lg bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-colors"

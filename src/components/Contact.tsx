@@ -16,13 +16,13 @@ const contactLinks = [
   {
     label: "LinkedIn",
     value: "tanmay-jadhav-795a96293",
-    href: "https://linkedin.com/in/tanmay-jadhav-795a96293",
+    href: "https://www.linkedin.com/in/tanmay-jadhav-795a96293",
     icon: Linkedin,
   },
   {
     label: "GitHub",
     value: "@tanmayjadhav",
-    href: "https://github.com/tanmayjadhav",
+    href: "https://github.com/Tanmayjadhav2305",
     icon: Github,
   },
   {

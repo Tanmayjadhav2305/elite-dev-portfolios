@@ -11,7 +11,7 @@ const projects = [
     description:
       "A modern WhatsApp-like web interface integrating Reels, Map, and Gaming features into a single seamless experience.",
     tech: ["HTML", "CSS", "JavaScript"],
-    link: "https://tanmayjadhav.vercel.app",
+    link: "https://whatsapp-52gml4u8e-tanmay-jadhavs-projects.vercel.app",
     year: "2025",
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     description:
       "Real-time tracking system for CNG stations using Firebase Realtime Database, displaying live queue updates for users.",
     tech: ["Firebase", "HTML", "CSS", "JavaScript"],
-    link: "https://tanmayjadhav.vercel.app",
+    link: "https://cngqueuetracker.web.app",
     year: "2025",
   },
   {
@@ -27,7 +27,7 @@ const projects = [
     description:
       "A responsive medical web app for online consultations, appointment booking, and record management.",
     tech: ["React", "JavaScript"],
-    link: "https://tanmayjadhav.vercel.app",
+    link: "https://tanmay-medico-app.netlify.app",
     year: "2025",
   },
   {
@@ -35,7 +35,7 @@ const projects = [
     description:
       "A visually appealing web app promoting pet adoption with testimonial carousel, responsive layout, and theme toggle.",
     tech: ["HTML", "CSS", "JavaScript"],
-    link: "https://tanmayjadhav.vercel.app",
+    link: "https://tanmayjadhav2305.github.io/Pet-friendly-City/",
     year: "2024",
   },
   {
@@ -43,7 +43,7 @@ const projects = [
     description:
       "An interactive UI component mimicking Apple's Dynamic Island purely with CSS animations and transitions.",
     tech: ["HTML", "CSS"],
-    link: "https://tanmayjadhav.vercel.app",
+    link: "https://tanmayjadhav2305.github.io/iPhone-14-Dynamic-Island/",
     year: "2024",
   },
 ];
